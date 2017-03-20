@@ -1,0 +1,24 @@
+Oct 18, 2016 1:34:46 AM edu.neu.csye6200.registry.VehicleRegistry <init>
+信息: VehicleRegistry Constructor Called
+Oct 18, 2016 1:34:46 AM edu.neu.csye6200.registry.RegistryIO <init>
+信息: RegistryIO Constructor Called
+Oct 18, 2016 1:34:46 AM edu.neu.csye6200.registry.RegistryIO save
+信息: save method called
+Oct 18, 2016 1:34:46 AM edu.neu.csye6200.registry.RegistryIO load
+信息: load method called
+Oct 19, 2016 7:55:31 PM edu.neu.csye6200.registry.VehicleRegistry <init>
+信息: VehicleRegistry Constructor Called
+Oct 19, 2016 7:55:31 PM edu.neu.csye6200.registry.RegistryIO <init>
+信息: RegistryIO Constructor Called
+Oct 19, 2016 7:55:31 PM edu.neu.csye6200.registry.RegistryIO save
+信息: save method called
+Oct 19, 2016 7:55:31 PM edu.neu.csye6200.registry.RegistryIO load
+信息: load method called
+Oct 19, 2016 8:06:09 PM edu.neu.csye6200.registry.VehicleRegistry <init>
+信息: VehicleRegistry Constructor Called
+Oct 19, 2016 8:06:09 PM edu.neu.csye6200.registry.RegistryIO <init>
+信息: RegistryIO Constructor Called
+Oct 19, 2016 8:06:09 PM edu.neu.csye6200.registry.RegistryIO save
+信息: save method called
+Oct 19, 2016 8:06:09 PM edu.neu.csye6200.registry.RegistryIO load
+信息: load method called
